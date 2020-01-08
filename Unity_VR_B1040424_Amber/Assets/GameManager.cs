@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour {
 	}
 	public void ThrowPickDetach(GameObject obj)
 	{
-		Destroy(obj);
+		
 	}
 	public void ThrowPickHeld()
 	{
